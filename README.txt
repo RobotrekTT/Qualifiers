@@ -10,7 +10,9 @@ This is the Model Repo for Round 1 of the R.O.Score Competition
 
 3) Please make sure you follow the pattern given in the model repo. Deviations from which may result to disqualification.
 
-4) Get to know the points associated to each question below
+4) Please make sure you go through the rulebook before going forward.
+
+5) Get to know the points associated to each question below
 
 
 Q1: Competitive Programming. Difficulty: Hard. Points: 30
