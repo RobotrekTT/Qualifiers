@@ -1,1 +1,1 @@
-Find the potential difference between points A & B in the following circuit, assuming that the given arrangement repeats to infinity.
+Find the net resistance between points A & B in the following circuit, assuming that the given arrangement repeats to infinity.
