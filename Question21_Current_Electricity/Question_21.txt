@@ -1,0 +1,1 @@
+Find the potential difference between points A & B, and points B & C, assuming the circuit is in steady state.
